@@ -44,7 +44,11 @@ First dependencies must be installed using <code> npm i </code> Then from the ro
 
 ##  Application Example 
 
-
+![J.A.T.E. Deployed Application](/images/JATE_app.png)
+![JApp Download](/images/app_popup.png)
+![J.A.T.E. Database](/images/database.png)
+![J.A.T.E. Service Worker](/images/service_worker.png)
+![J.A.T.E. Manifest](/images/manifest.png)
 
 ## Questions?
 ### Contact Me
