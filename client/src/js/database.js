@@ -30,7 +30,7 @@ const request = store.put({jate: content});
 // Get confirmation of the request.
 const result = await request;
 
-console.error('putDb implemented', result);
+console.error('Saved to thr database', result);
 };
 
 // Add logic for a method that gets all the content from the database
@@ -50,7 +50,7 @@ const request = store.getAll();
 
 // Get confirmation of the request.
 const result = await request;
-console.error('getDb implemented');
+console.error(result);
 
 }
 

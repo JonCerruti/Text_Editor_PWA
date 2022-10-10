@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Installation](#installation)
 - [Deployed Application ](#deployed-application)
-- [Testing](#testing)
 - [Questions?](#questions)
 - [Contact Me](#contact-me)
 
